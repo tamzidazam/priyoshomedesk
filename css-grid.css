@@ -1,6 +1,6 @@
 :root {
     --shadow-color: rgba(3, 8, 20, 0.1);
-    --background-color: linear-gradient(#f6f6f6,#f6f6f6);
+    --background-color: none;
 }
 
 body[data-theme='b'] {
