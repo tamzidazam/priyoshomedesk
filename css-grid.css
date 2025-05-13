@@ -1,11 +1,13 @@
 :root {
     --shadow-color: rgba(3, 8, 20, 0.1);
     --background-color: transparent !important;
+    --background: none !important;
 }
 
 body[data-theme='b'] {
     --shadow-color: #2ad;
     --background-color: transparent !important;
+    --background: none !important;
 }
 
 * {
