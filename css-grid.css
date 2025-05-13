@@ -1,13 +1,11 @@
 :root {
-    
-    background-color: transparent !important;
-    background: none !important;
+    --shadow-color: rgba(3, 8, 20, 0.1);
+    --background-color: linear-gradient(#f6f6f6,#f6f6f6);
 }
 
 body[data-theme='b'] {
-    
-    background-color: transparent !important;
-    background: none !important;
+    --shadow-color: #2ad;
+    --background-color: linear-gradient(#333,#333);
 }
 
 * {
