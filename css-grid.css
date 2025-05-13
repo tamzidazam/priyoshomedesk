@@ -107,3 +107,8 @@ body[data-theme='b'] {
     font-size: 50%;
     cursor: pointer;
 }
+
+body {
+    background: none !important;
+}
+
