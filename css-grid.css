@@ -19,7 +19,7 @@ body[data-theme='b'] {
     grid-template-columns: repeat(auto-fit, minmax(128px, auto));
     grid-auto-rows: minmax(256px, auto);
     margin: 20px;
-    height: 200pc;
+    height: 200px;
 }
 
 .borderShadow{
